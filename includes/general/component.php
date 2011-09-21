@@ -1,0 +1,1 @@
+<div id="component" class="cfg-pane"></div>

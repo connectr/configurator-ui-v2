@@ -1,0 +1,28 @@
+#cfg-shelf .scrollable{position:relative;overflow:hidden;width:900px;height:100px;margin-left:40px;}
+#cfg-shelf .scrollable .items{width:20000em;position:absolute;clear:both;}
+#cfg-shelf .scrollable img{float:left;margin:0px 5px 0px 5px;background-color:#fff;padding:2px;border:1px solid;border-color:#ddd #ccc #ccc #ddd;cursor:pointer;}
+#cfg-shelf .scrollable .active{border:1px solid #fc0;z-index:9999;position:relative;}
+#cfg-shelf .scrollable{float:left;}
+#cfg-shelf a.browse{background:#ccc url(http://prototype.dev/configurator/media/images/slider-controls.png) no-repeat;display:block;width:30px;height:113px;padding-bottom:20px;position:absolute;top:0;cursor:pointer;font-size:1px;}
+
+/* right */
+#cfg-shelf a.right{background-position:7px 55px;clear:right;right:0;margin-right:0px;-moz-border-radius-bottomright:11px;}
+#cfg-shelf a.right:hover{}
+#cfg-shelf a.right:active{}
+
+/* left */
+#cfg-shelf a.left{background-position:7px -220px;left:0;-moz-border-radius-bottomleft:11px;}
+#cfg-shelf a.left:hover{}
+#cfg-shelf a.left:active{}
+
+/* disabled navigational button */
+#cfg-shelf a.disabled{visibility:hidden !important;}
+
+.cfg-shelf-panes{position:relative;}
+
+#cfg-shelf .items a{position:relative;}
+#cfg-shelf .items a:hover ul{display:block;}
+#cfg-shelf .items ul,
+#cfg-shelf .items li{list-style:none;margin:0;padding:0;}
+
+#cfg-shelf .items ul{display:none;width:150px;height:100px;background:#000;position:absolute;top:0;left:0;z-index:9999;}

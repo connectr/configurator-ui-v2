@@ -1,0 +1,8 @@
+body{background:#111;}
+#cfg-wrap *{margin:0;padding:0;outline:none;}
+#cfg-wrap{font:normal 13px/160% Arial,Helvetica,sans-serif;width:960px;margin:0 auto;}
+
+#cfg-main{position:relative;}
+#cfg-main .cfg-pane{float:left;width:100%;padding-top:15px;}
+#cfg-main a#cfg-mode{position:absolute;top:0;right:0;width:200px;height:40px;color:#fff;font-size:1.3em;line-height:40px;text-indent:-7998px;background:transparent url(../images/mode-switch.png) 0 -40px no-repeat;}
+#cfg-main a#cfg-mode.production{background-position:0 0;}

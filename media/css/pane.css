@@ -1,0 +1,19 @@
+#cfg-main .cfg-options{width:550px;float:left;margin:0 0 15px 15px;border:5px solid #eee;}
+#cfg-main .cfg-options .cfg-inner{background:#fff url(../images/form-bg.jpg) repeat-y;border:1px solid #999;}
+#cfg-main .cfg-options h3{padding:5px 10px;background:#ddd url(../images/heading-bg.jpg) repeat-x;color:#777;font-size:1.1em;}
+#cfg-main .cfg-options h3 span{}
+#cfg-main .cfg-options ol{list-style:none;}
+#cfg-main .cfg-options li{padding:2px 0 5px 0;margin:0;border-top:1px solid #fff;border-bottom:1px solid #ddd;}
+#cfg-main .cfg-options li.last{border-bottom:0;}
+#cfg-main .cfg-options li label{font-size:1.1em;display:inline-block;position:relative;width:260px;text-indent:10px;color:#444;}
+#cfg-main .cfg-options li label a{position:absolute;top:2px;right:10px;width:30px;height:15px;display:block;text-indent:-7998px;}
+#cfg-main .cfg-options li label a.tt-modal{background:transparent url(../images/tooltip-help.png) no-repeat;}
+#cfg-main .cfg-options li label a.tt-inline{background:transparent url(../images/tooltip-info.png) no-repeat;}
+#cfg-main .cfg-options li span{position:relative;top:4px;}
+
+#cfg-main .cfg-info{width:350px;float:right;margin-right:15px;}
+#cfg-main .cfg-info h3{color:#303030;font-family:'HelveticaNeue-Light','Helvetica Neue Light','Helvetica Neue',sans-serif;font-size:22px;font-weight:300;letter-spacing:0.4px;margin-bottom:15px;padding:0;}
+#cfg-main .cfg-info p.teaser{background:url(../images/helptext-divider.png) 50% 100% no-repeat #fff;color:#666;font:15px/20px Arial, Helvetica, sans-serif;margin:0 0 10px;padding-bottom:25px;}
+#cfg-main .cfg-info p{margin-bottom:15px;}
+
+#tooltip{background-color:#000;border:1px solid #fff;padding:10px 15px;width:200px;display:none;color:#fff;text-align:left;font-size:12px;-moz-box-shadow:0 0 10px #000;-webkit-box-shadow:0 0 10px #000;font:normal .8em/1.3em Arial, Helvetica, sans-serif;}

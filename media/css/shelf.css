@@ -1,0 +1,24 @@
+#cfg-shelf{margin-bottom:1em;}
+#cfg-shelf .cfg-shelf-panes{background:#fff;padding:1em 0 0 0;-moz-border-radius:0 0 1em 1em;clear:both;height:120px;}
+#cfg-themelet-slider{}
+#cfg-system-info{background:#fff;overflow:hidden;}
+#cfg-system-info div{float:left;}
+#cfg-system-info ul,
+#cfg-system-info li{list-style:none;margin:0;padding:0;}
+#cfg-system-info ul,
+#cfg-system-info dl,
+#cfg-system-info h3{margin-left:15px;}
+#cfg-system-info h3{margin-bottom:.5em;}
+#cfg-updates{width:270px;xbackground:#ccc;}
+#cfg-updates dl{}
+#cfg-updates dt,
+#cfg-updates dd{float:left;}
+#cfg-updates dt{width:100px;xbackground:#ddd;}
+#cfg-updates dd.cfg-installed{width:50px;xbackground:#eee;}
+#cfg-updates dd.cfg-latest{width:50px;xbackground:#ddd;}
+#cfg-updates dd.cfg-icon{width:50px;xbackground:#eee;}
+#cfg-current{width:350px;xbackground:#999;}
+#cfg-current li strong{display:inline-block;width:65px;}
+#cfg-references{width:340px;}
+#cfg-references li{float:left;padding:0 .5em .5em 0;}
+#cfg-references li a{font-size:12px;color:#fff;background:#555;-moz-border-radius:.5em;text-decoration:none;padding:.2em .5em;}

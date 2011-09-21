@@ -1,0 +1,1 @@
+<div id="plugins" class="cfg-pane"></div>
